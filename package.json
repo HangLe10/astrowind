@@ -7,6 +7,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "commit": "git add . && git commit -m 'add all' && git push",
     "preview": "astro preview",
     "astro": "astro",
     "format": "prettier -w .",
